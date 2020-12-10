@@ -1,0 +1,7 @@
+Create a folder on your local drive
+clone the Git repository using GIT clone <<Repo URL> command
+add a sample text file to the folder
+open GIT bash and cd to pwd
+ Use git add . (this is push the file to the staging area)
+use git commit -m "text" this will commit the changes to the staging area
+use git push " this will move the file to the central repo"
